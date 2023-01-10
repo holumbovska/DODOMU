@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/DODOMU/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/Hangar/vegetation/tree_01.uasset",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/Hangar/vegetation/tree_02.uasset",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/Hangar/vegetation/tree_03.uasset",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/Hangar/Maps/Overview_BuiltData.uasset",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/Hangar/Maps/Overview.umap",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/M_S_House/Maps/ModularSovietHouseMap.umap",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/M_S_House/Maps/Overview_BuiltData.uasset",
+				"C:/Users/anast/OneDrive/Documents/Unreal Projects/DODOMU_FAP/Content/M_S_House/Maps/Overview.umap"
+			]
+		}
+	]
+}
